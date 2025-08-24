@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-inference
 inference-sdk
 pillow
+python-multipart
