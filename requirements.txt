@@ -1,4 +1,5 @@
 fastapi
 uvicorn
+inference
 inference-sdk
 pillow
